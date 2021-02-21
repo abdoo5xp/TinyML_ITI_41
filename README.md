@@ -5,9 +5,9 @@
 # Packages Installation : 
 you should run the following commands on your cmd --> 
 
-pip install opencv-python 
-pip install tensorflow 
-pip install numpy 
+pip install opencv-python \n
+pip install tensorflow \n
+pip install numpy \n
 
 # How to use :
 1- Download the code files on your laptop. 
